@@ -1,0 +1,10 @@
+---
+title: awesome_post
+author: ks
+date: '2022-12-17'
+slug: awesome-post
+categories: []
+tags: []
+---
+하이 아임 ks
+똑같이
